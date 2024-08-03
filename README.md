@@ -15,4 +15,5 @@ Become a Python expert by building 100 projects in 100 days! This comprehensive 
 - Game Development: Create fun and interactive games using libraries like Pygame.
 - App Development: Develop mobile and desktop applications that solve real-world problems.
 
-# Contributing
+# Contributors
+- [Vadym Makohon](https://github.com/VadymMakohon)
