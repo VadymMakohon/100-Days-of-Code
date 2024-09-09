@@ -15,5 +15,11 @@ Become a Python expert by building 100 projects in 100 days! This comprehensive 
 - Game Development: Create fun and interactive games using libraries like Pygame.
 - App Development: Develop mobile and desktop applications that solve real-world problems.
 
+## 📜 License
+This repository is for educational purposes only and has an MIT License
+
+### Show your support
+Give a ⭐ if you like this website!
+
 # Contributors
 - [Vadym Makohon](https://github.com/VadymMakohon)
